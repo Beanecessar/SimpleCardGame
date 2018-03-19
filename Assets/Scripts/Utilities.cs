@@ -18,6 +18,8 @@ namespace Utilities
         CostConsumed
     }
 
+    public delegate void TimingCallback(TimingInfo info);
+
     struct Cost
     {
         Cost(int gold,int metal,int food)

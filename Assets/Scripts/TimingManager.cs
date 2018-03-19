@@ -7,7 +7,7 @@ public class TimingManager
     Queue<Timing> timingQueue;
     TimingListener timingListener;
 
-    public void InsertListener()
+    public void InsertListener(TimingCallback timingCallback)
     {
         
     }

@@ -285,8 +285,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Card.cs" />
+    <Compile Include="Assets\Scripts\Deck.cs" />
     <Compile Include="Assets\Scripts\DeckManager.cs" />
     <Compile Include="Assets\Scripts\Dueler.cs" />
+    <Compile Include="Assets\Scripts\TimingInfo.cs" />
     <Compile Include="Assets\Scripts\TimingListener.cs" />
     <Compile Include="Assets\Scripts\TimingManager.cs" />
     <Compile Include="Assets\Scripts\Utilities.cs" />
